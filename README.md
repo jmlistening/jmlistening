@@ -101,6 +101,4 @@ I build small, auditable tools that keep your data on your device. No accounts, 
 
 <sub>感谢访问 · Thanks for visiting</sub>
 
-<img src="https://komarev.com/ghpvc/?username=jmlistening&amp;label=Profile%20views&amp;color=2F6B58&amp;style=flat" alt="Profile views">
-
 </div>
