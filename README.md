@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>你好，我是 HappyJM 👋</h1>
-<h3>本地优先 · 隐私友好 · 开源小工具</h3>
-<p><strong>Local-first · privacy-friendly · open-source tools</strong></p>
+<p>
+  <img src="assets/profile-banner.svg" alt="HappyJM — 本地优先 · 隐私友好 · 开源小工具 / Local-first, privacy-friendly, open-source tools" width="100%">
+</p>
 
 <p>
   <img alt="Local-first" src="https://img.shields.io/badge/Local--first-127.0.0.1-2F6B58">
@@ -11,8 +11,9 @@
   <img alt="Offline ready" src="https://img.shields.io/badge/Offline-ready-5A0FC8">
 </p>
 
-<p>在做照片、论文和数据方向的本地优先工具。<br>
-Building local-first tools for photos, papers and data.</p>
+<p>你好，我是 HappyJM 👋<br>
+在做照片、论文和数据方向的本地优先工具。<br>
+<sub>Building local-first tools for photos, papers and data.</sub></p>
 
 </div>
 

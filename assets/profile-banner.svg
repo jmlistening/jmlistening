@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">HappyJM — local-first, privacy-friendly open-source tools</title>
+  <desc id="desc">A dark green banner with the name HappyJM, the Chinese tagline 本地优先 · 隐私友好 · 开源小工具 and the English tagline Local-first · privacy-friendly · open-source tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.52" stop-color="#122a26"/>
+      <stop offset="1" stop-color="#2f6b58"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.12" r="0.75">
+      <stop offset="0" stop-color="#7dd3fc" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#7dd3fc" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="warm" cx="0.12" cy="0.92" r="0.65">
+      <stop offset="0" stop-color="#a7f3d0" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#a7f3d0" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#ffffff" opacity="0.10"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="28" fill="url(#dots)"/>
+  <rect width="1200" height="300" rx="28" fill="url(#glow)"/>
+  <rect width="1200" height="300" rx="28" fill="url(#warm)"/>
+
+  <g opacity="0.9">
+    <circle cx="1048" cy="72" r="118" fill="#7dd3fc" opacity="0.07"/>
+    <circle cx="1048" cy="72" r="78" fill="#7dd3fc" opacity="0.06"/>
+    <circle cx="110" cy="252" r="132" fill="#a7f3d0" opacity="0.06"/>
+  </g>
+
+  <g font-family="Segoe UI, Microsoft YaHei, PingFang SC, sans-serif">
+    <text x="76" y="122" fill="#f8fafc" font-size="50" font-weight="700" letter-spacing="-1">HappyJM</text>
+    <text x="78" y="170" fill="#a7f3d0" font-size="25" font-weight="600">本地优先 · 隐私友好 · 开源小工具</text>
+    <text x="78" y="207" fill="#cbd5e1" font-size="21">Local-first · privacy-friendly · open-source tools</text>
+    <text x="78" y="253" fill="#94a3b8" font-size="17" letter-spacing="0.4">github.com/jmlistening</text>
+  </g>
+
+  <g transform="translate(980 190)">
+    <rect x="0" y="0" width="154" height="42" rx="21" fill="#ffffff" opacity="0.08"/>
+    <circle cx="22" cy="21" r="6" fill="#a7f3d0"/>
+    <text x="40" y="27" fill="#e2e8f0" font-family="Segoe UI, sans-serif" font-size="16">local-first</text>
+  </g>
+</svg>
