@@ -82,11 +82,6 @@ I build small, auditable tools that keep your data on your device. No accounts, 
 ## 📊 GitHub 数据 / Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jmlistening&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;locale=cn&amp;rank_icon=github" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlistening&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;langs_count=6" alt="Top languages">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=jmlistening&amp;theme=transparent&amp;hide_border=true&amp;locale=zh_Hans" alt="GitHub streak">
 </p>
 
