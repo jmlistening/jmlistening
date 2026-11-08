@@ -44,7 +44,7 @@ I build small, auditable tools that keep your data on your device. No accounts, 
 <p>《最后一度：热浪危机》——部署降温设施、盯住温度图，在热浪压垮城市前撤离三个街区。<br>
 <sub>The Last Degree: Heatwave Crisis — a playable 3D city rescue strategy game about cooling a city before the heatwave wins.</sub></p>
 <p><code>React 19</code> <code>Three.js</code> <code>TypeScript</code> <code>PWA</code></p>
-<p><a href="https://github.com/jmlistening/the-last-degree"><strong>▶ 查看项目 / View on GitHub</strong></a></p>
+<p><a href="https://jmlistening.github.io/the-last-degree/"><strong>▶ 在线试玩 / Live Demo</strong></a></p>
 
 </td>
 </tr>
