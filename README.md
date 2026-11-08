@@ -12,8 +12,8 @@
 </p>
 
 <p>你好，我是 HappyJM 👋<br>
-在做照片、论文和数据方向的本地优先工具。<br>
-<sub>Building local-first tools for photos, papers and data.</sub></p>
+在做照片、论文、数据方向的本地优先工具，也在做 3D 交互实验。<br>
+<sub>Building local-first tools for photos, papers and data — plus the occasional 3D interactive experiment.</sub></p>
 
 </div>
 
@@ -28,6 +28,26 @@ I build small, auditable tools that keep your data on your device. No accounts, 
 ## 🚀 精选项目 / Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/jmlistening/warehouse-robot-simulator">🤖 Warehouse Robot Simulator</a></h3>
+<p>可交互的 3D 仓库机器人配送模拟器，支持 A* 动态重规划。<br>
+<sub>An interactive 3D warehouse robot simulator with live A* replanning.</sub></p>
+<p><code>Vanilla JS</code> <code>Three.js</code> <code>A*</code></p>
+<p><a href="https://jmlistening.github.io/warehouse-robot-simulator/"><strong>▶ 在线试用 / Live Demo</strong></a></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/jmlistening/the-last-degree">🌡️ The Last Degree</a></h3>
+<p>《最后一度：热浪危机》——部署降温设施、盯住温度图，在热浪压垮城市前撤离三个街区。<br>
+<sub>The Last Degree: Heatwave Crisis — a playable 3D city rescue strategy game about cooling a city before the heatwave wins.</sub></p>
+<p><code>React 19</code> <code>Three.js</code> <code>TypeScript</code> <code>PWA</code></p>
+<p><a href="https://github.com/jmlistening/the-last-degree"><strong>▶ 查看项目 / View on GitHub</strong></a></p>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -74,6 +94,9 @@ I build small, auditable tools that keep your data on your device. No accounts, 
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&amp;logoColor=white">
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&amp;logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&amp;logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&amp;logoColor=white">
+  <img alt="React 19" src="https://img.shields.io/badge/React_19-149ECA?logo=react&amp;logoColor=white">
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-242938?logo=threedotjs&amp;logoColor=white">
   <img alt="Vanilla JS" src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?logo=javascript&amp;logoColor=black">
   <img alt="PWA" src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&amp;logoColor=white">
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&amp;logoColor=white">
@@ -88,8 +111,8 @@ I build small, auditable tools that keep your data on your device. No accounts, 
 
 ## 🌱 最近在做 / Currently
 
-- 把本地优先的工具做得更好用、更可验证。
-- Making local-first tools more usable and verifiable.
+- 打磨 3D 仓库模拟器与《最后一度》，并继续做本地优先的小工具。
+- Polishing the 3D warehouse simulator and The Last Degree, while continuing to build local-first tools.
 
 ## 🤝 联系 / Connect
 
