@@ -35,6 +35,7 @@ I build small, auditable tools that keep your data on your device. No accounts, 
 <p>引用可追溯的本地优先 RAG 文档问答：BM25 + 向量混合检索、离线抽取式演示、检索评估。<br>
 <sub>Citation-grounded RAG over your documents — hybrid retrieval, offline extractive mode and an eval harness.</sub></p>
 <p><code>Python</code> <code>LangChain</code> <code>BM25</code> <code>RAG</code></p>
+<p><a href="https://github.com/jmlistening/langchain-citewise/blob/main/README.md">English</a> · <a href="https://github.com/jmlistening/langchain-citewise/blob/main/README.zh-CN.md">简体中文</a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -43,6 +44,7 @@ I build small, auditable tools that keep your data on your device. No accounts, 
 <p>基于 LangGraph 的自纠错 RAG Agent：查询改写、文档评分、答案核验、人工审核与断点续跑。<br>
 <sub>A self-correcting RAG agent with query rewriting, grading, verification, human review and checkpointed threads.</sub></p>
 <p><code>Python</code> <code>LangGraph</code> <code>Agent</code> <code>HITL</code></p>
+<p><a href="https://github.com/jmlistening/langgraph-looprag/blob/main/README.md">English</a> · <a href="https://github.com/jmlistening/langgraph-looprag/blob/main/README.zh-CN.md">简体中文</a></p>
 
 </td>
 </tr>
