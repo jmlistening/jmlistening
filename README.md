@@ -12,8 +12,8 @@
 </p>
 
 <p>你好，我是 HappyJM 👋<br>
-在做照片、论文、数据方向的本地优先工具，也在做 3D 交互实验。<br>
-<sub>Building local-first tools for photos, papers and data — plus the occasional 3D interactive experiment.</sub></p>
+在做照片、论文、数据方向的本地优先工具、LLM/RAG 应用，也在做 3D 交互实验。<br>
+<sub>Building local-first tools for photos, papers and data, plus LLM/RAG applications — and the occasional 3D interactive experiment.</sub></p>
 
 </div>
 
@@ -28,6 +28,24 @@ I build small, auditable tools that keep your data on your device. No accounts, 
 ## 🚀 精选项目 / Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/jmlistening/langchain-citewise">🔎 CiteWise</a></h3>
+<p>引用可追溯的本地优先 RAG 文档问答：BM25 + 向量混合检索、离线抽取式演示、检索评估。<br>
+<sub>Citation-grounded RAG over your documents — hybrid retrieval, offline extractive mode and an eval harness.</sub></p>
+<p><code>Python</code> <code>LangChain</code> <code>BM25</code> <code>RAG</code></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/jmlistening/langgraph-looprag">🔁 LoopRAG</a></h3>
+<p>基于 LangGraph 的自纠错 RAG Agent：查询改写、文档评分、答案核验、人工审核与断点续跑。<br>
+<sub>A self-correcting RAG agent with query rewriting, grading, verification, human review and checkpointed threads.</sub></p>
+<p><code>Python</code> <code>LangGraph</code> <code>Agent</code> <code>HITL</code></p>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -91,6 +109,8 @@ I build small, auditable tools that keep your data on your device. No accounts, 
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=white">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C">
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-6D28D9">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&amp;logoColor=white">
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&amp;logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&amp;logoColor=white">
@@ -111,8 +131,8 @@ I build small, auditable tools that keep your data on your device. No accounts, 
 
 ## 🌱 最近在做 / Currently
 
-- 打磨 3D 仓库模拟器与《最后一度》，并继续做本地优先的小工具。
-- Polishing the 3D warehouse simulator and The Last Degree, while continuing to build local-first tools.
+- 继续打磨 CiteWise、LoopRAG 两个 LLM 应用，以及 3D 仓库模拟器与《最后一度》。
+- Continuing to polish the CiteWise and LoopRAG LLM apps, plus the 3D warehouse simulator and The Last Degree.
 
 ## 🤝 联系 / Connect
 
